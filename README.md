@@ -1,18 +1,3 @@
-ShadowVPN
-=========
-
-[![Build Status]][Travis CI]
-
-[中文说明][Chinese Readme]
-
-ShadowVPN is a fast, safe VPN based on libsodium. Designed for low end
-devices, i.e. OpenWRT routers.
-
-For more details, [check here][Compare].
-
-ShadowVPN is currently beta and have much work to do. If you want a stable version, 
-please come by here a few months later.
-
 Install
 -------
 
@@ -103,29 +88,6 @@ Client(OpenWRT):
 
 You can also read [LuCI Configuration].
 
-Wiki
-----
-
-You can find all the documentation in the wiki:
-https://github.com/clowwindy/ShadowVPN/wiki
-
-License
--------
-
-Copyright (C) 2015 clowwindy
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Bugs and Issues
 ----------------
